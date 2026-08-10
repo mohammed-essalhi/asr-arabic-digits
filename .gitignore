@@ -1,6 +1,7 @@
 # Datasets and Audio
 DATASET/
 *.wav
+*.docx
 
 # Saved Models
 *.pkl
