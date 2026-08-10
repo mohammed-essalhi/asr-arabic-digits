@@ -1,0 +1,11 @@
+# Datasets and Audio
+DATASET/
+*.wav
+
+# Saved Models
+*.pkl
+*.h5
+*.keras
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
