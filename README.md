@@ -41,3 +41,9 @@ asr-arabic-digits/
 ├── samples/                       # (Optionnel) Quelques échantillons .wav pour démonstration
 ├── .gitignore                     # Exclusion du dataset lourd et des poids du modèle (.pkl, .h5)
 └── README.md
+```
+
+##  Author
+**Mohammed Essalhi**
+* [LinkedIn](https://linkedin.com/in/mohammed-essalhi-23794b24b)
+
